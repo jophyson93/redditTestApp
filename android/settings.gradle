@@ -1,0 +1,3 @@
+rootProject.name = 'redditTestApp'
+
+include ':app'
